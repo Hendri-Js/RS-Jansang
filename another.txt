@@ -3,8 +3,8 @@ another
   ^ &
 - or
   ^ ||
-- with
 - to
 - because
 - into
 - above
+- bellow
