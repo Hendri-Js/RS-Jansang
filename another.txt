@@ -4,6 +4,7 @@ another
 - or
   ^ ||
 - to
+  ^ >>
 - because
 - into
 - above
