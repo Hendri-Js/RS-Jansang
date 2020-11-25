@@ -1,6 +1,8 @@
 another
 - and
+   ^ &
 - or
+    ^ \
 - with
 - to
 - because
