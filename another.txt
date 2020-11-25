@@ -1,10 +1,11 @@
 another
 - and
-   ^ &
+  ^ &
 - or
-    ^ \
-- with
+  ^ ||
 - to
+  ^ >>
 - because
 - into
 - above
+- bellow
